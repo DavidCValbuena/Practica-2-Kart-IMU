@@ -1,1 +1,1 @@
-El código esta en el archivo CODIGO IMU o enel archivo karts2
+El código esta en el archivo CODIGO IMU o en el archivo karts2
